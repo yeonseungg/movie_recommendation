@@ -111,11 +111,3 @@ hybrid_recommendations_with_optimized_weights(user_id=2, target_movie_title="Dum
 | 협업 점수         | 0.29   |
 
 ---
-
-## 👥 팀원
-
-- 금융통계 5조  
-  - 김혁  
-  - 최승원  
-  - 이승연  
-  - 윤여원
